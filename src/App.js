@@ -20,7 +20,7 @@ export default function App() {
 
   return (
     <div>
-      <button onClick={changeToFour}> h1 </button>
+      <button onClick={changeToFour}> h2 </button>
       <button onClick={changeToTwo}> h2 </button>
       <button onClick={changeToOne}> Back to normal </button>
 
